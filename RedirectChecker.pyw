@@ -1,4 +1,3 @@
-# Embedded file name: RedirectChecker.pyw
 import wx
 import requests
 import time
